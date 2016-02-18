@@ -1,2 +1,7 @@
 # hello-world
-The one I created at Software Carpentry on 18 February 2016
+This is the README file that I created at Software Carpentry on 18 February 2016. 
+Here is  a list:
+* lorem
+* ipsum
+* dolor
+## Secondary header
